@@ -51,8 +51,8 @@ Per heist, here's what it goes for:
 | **Original Heists** | up to $3M per player, with elite / mastermind bonuses on top |
 | **Cayo Perico** | $2.55M for every player in the crew |
 | **Doomsday** | up to $2.4M |
-| **Diamond Casino** | one equal cut across all four seats — you set the take |
-| **Kortz Center** | a modded host payout you choose ($2M by default, higher if you want) |
+| **Diamond Casino** | one equal cut across all four seats —up to $3.6M |
+| **Kortz Center** | a modded host payout you choose (to be calculed) |
 
 Set the target, it does the math and writes it before you commit. Prefer to play clean? Flip it off and the game pays out naturally. Your call.
 
