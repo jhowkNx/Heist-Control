@@ -1,5 +1,7 @@
 # Heist Control — Yari Edition
 
+**Introducing Heist Control for Yari** — the heist script that puts every major job in GTA V Enhanced under one roof. Setups, payouts, cuts, helpers: one window, your rules.
+
 Every heist. One script. No headache.
 
 > **This is a preview, not a release.** The script is private and still in development — no download, no release date. But everything you see here already works and has been tested. What's left is small bugs and final polish.
@@ -18,7 +20,7 @@ It runs on the Yari Menu, **version 2.0 or newer** (GTA V Enhanced 1.73).
 
 ## Not our first rodeo
 
-If the name rings a bell, here's why: this is the same team that built Heist Control for 2take1 (V2/V3). We've been making heist tools since those days, so a lot of what you see here is experience carried over, not guesswork.
+Heist Control didn't start here. Before Yari, this same team built Heist Control for 2take1 (V2/V3). We've been making heist tools since those days, so a lot of what you see here is experience carried over, not guesswork.
 
 That said, we're not above getting it wrong — which is why nothing ships until it's proven in-game. Every feature you see here has been run and tested before it ever reaches you.
 
@@ -51,8 +53,8 @@ Per heist, here's what it goes for:
 | **Original Heists** | up to $3M per player, with elite / mastermind bonuses on top |
 | **Cayo Perico** | $2.55M for every player in the crew |
 | **Doomsday** | up to $2.4M |
-| **Diamond Casino** | one equal cut across all four seats —up to $3.6M |
-| **Kortz Center** | a modded host payout you choose (to be calculed) |
+| **Diamond Casino** | one equal cut across all four seats — up to $3.6M |
+| **Kortz Center** | a modded host payout you choose (still being calculated) |
 
 Set the target, it does the math and writes it before you commit. Prefer to play clean? Flip it off and the game pays out naturally. Your call.
 
@@ -69,6 +71,12 @@ Bottom line: host and friends eat the same. Nobody joins your heist and gets a t
 Honest version: the script is private right now. Everything shown here works and has been tested; what's left is small bugs and final refinements. Once that's done, I'll start sharing it with the public. No release date yet — but this is close.
 
 And don't get too attached to the exact look: the UI can change before launch, and it'll keep evolving after release too. I'll polish it as long as there's something worth improving.
+
+## Licensing: everyone in at the start
+
+There will be free and paid licenses down the line, but the exact details are still being worked out — we'll clarify them before release, not after.
+
+What's decided: when the script first goes public, it's available to **everyone, no restrictions**. No paywall at the door, no invite-only club. Whatever the paid tier ends up adding later, the starting line is open to all.
 
 ## Getting your hands on it
 
