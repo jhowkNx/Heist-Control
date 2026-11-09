@@ -4,7 +4,7 @@ Every heist. One script. No headache.
 
 > **This is a preview, not a release.** The script is private and still in development — no download, no release date. But everything you see here already works and has been tested. What's left is small bugs and final polish.
 
-**Exclusive to Yari 2.0 and up.** If you're on anything older than 2.0, this won't run — update Yari first. Not compatible with older versions.
+**Exclusive to Yari V2**
 
 ![Heist Control interface](ui_clean.png)
 
