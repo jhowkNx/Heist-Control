@@ -38,11 +38,7 @@ The launcher is the only file you install. The script is downloaded and kept up 
 
 Download **`JK-Launcher.luac`** from the official Heist Control release post. It's the only file you install by hand.
 
-### 2. Close GTA
-
-The game only reads the launcher when it starts.
-
-### 3. Put it in the Yari Lua folder
+### 2. Put it in the Yari Lua folder
 
 ```
 Documents\yari\Grand Theft Auto V\lua\
@@ -52,25 +48,25 @@ That's the same folder as your other Yari Lua scripts. Keep the name **`JK-Launc
 
 If you use functions that depend on `natives.lua`, copy `natives.lua` into this same folder, next to `JK-Launcher.luac`.
 
-### 4. Remove any older Heist Control install
+### 3. Remove any older Heist Control install
 
 If you have an old Heist Control copy in that folder, take it out first. Two copies running at once fight over the menu.
 
-### 5. Start the game and inject Yari
+### 4. Start the game and inject Yari
 
 The launcher opens on its own. If it doesn't, check Yari's script list and make sure the launcher is enabled.
 
-### 6. Click **Play FREE edition**
+### 5. Click **Play FREE edition**
 
 The launcher home shows one product with two cards: **FREE** and **PRO**.
 
 Click **Play FREE edition**. It sets up once — no key, no email — downloads the current build and loads it. The card changes to **Ready to play**.
 
-### 7. Press **Continue to game**
+### 6. Press **Continue to game**
 
 The launcher hides and Heist Control is running.
 
-### 8. Press **`-`**
+### 7. Press **`-`**
 
 That's the menu key. You can change it in **Settings → UI → Menu key**.
 
