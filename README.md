@@ -92,7 +92,7 @@ If a preset does nothing, check that you are at the board and try again. Presets
 | Backspace | Back one level |
 | Esc | Close the menu |
 | Mouse | Click and scroll |
-| `F8` | Hide / show the launcher |
+| `F8` | Hide / show the launcher. While it is open, it blocks game input |
 | `F9` | Shut the launcher down cleanly |
 
 Press `F9` before you disable the script in Yari. That's the safe exit.
@@ -101,7 +101,9 @@ Press `F9` before you disable the script in Yari. That's the safe exit.
 
 **The script** updates by itself. Every time you launch, the launcher loads the current build for your edition. There's no file to replace.
 
-**The launcher** updates itself too. When it asks for an update, close the game, replace the launcher file, and start again.
+**The launcher** can update itself to fix bugs and add new features. When an update is available, the launcher downloads it, checks it, and replaces its own file. If it asks for an update before it can connect, follow the prompt in the launcher.
+
+While the launcher is open (after `F8`, it is visible), it blocks input to the game, so keys and clicks go to the launcher, not to GTA. Press `F8` to hide it and play again.
 
 ## Features
 
